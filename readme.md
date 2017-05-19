@@ -1,12 +1,10 @@
-# Readme
+# dbatools Training Lab
 
-Edited by `DanielSSilva`
-***
+Do you want to know more about [dbatools](https://github.com/sqlcollaborative/dbatools) but you don't have examples, or know where to begin to test it safely? 
 
-Do you want to know more about `dbatools` but you don't have examples or samples to test it safely? 
-Are you like me, curious about the power of both tools? Then you came to the right repository!
+Are you like me, curious about the power of this PowerShell module? Then you came to the right repository!
 
-### Objectives of this repo:
+### Objectives of this repository:
  * Quickly get samples and examples to test one or many commands
  * Some explanation of how/why it's like it is
  * Explanations for the "beginners"
@@ -14,6 +12,6 @@ Are you like me, curious about the power of both tools? Then you came to the rig
 
 # As always, any contribution is welcome! 
 
-Please keep in mind that this is aiming for people that might not be on the same level of knowledge, so if you want to help with some examples, please leave a little explanation. :)
+Please keep in mind that this is aimed at people that might not be on the same level of knowledge. If you want to help with building out examples, please go green and leave comments in your scripts so everyone can learn.
 
-Hope that this in the future becomes useful for everyone!
+We hope that this repository will become a great resource for everyone to learn a bit of PowerShell, and more on how dbatools can make your job easier!
